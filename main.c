@@ -22,6 +22,8 @@ printf("%d - %d = %d\n",a-b);
 printf("%d * %d = %d\n",a*b);
 
 
+printf("%d / %d = %d\n",a/b);
+
 return 0; 
 
 
